@@ -73,8 +73,7 @@
       <s:grams>95</s:grams>
     </s:variant>
     <s:variant>
-      <id>https://www.onlynaturalpet.com/products/3805075865664</id>
-      <title>Kitty / 2 1/8&quot; diameter</title>
+   
       <s:price currency="USD">9.89</s:price>
       <s:sku>122004</s:sku>
       <s:grams>59</s:grams>
@@ -109,11 +108,11 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://www.onlynaturalpet.com/products/3804447473728</id>
+  
     <published>2023-07-11T16:56:26-06:00</published>
     <updated>2023-07-11T16:56:26-06:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.onlynaturalpet.com/products/incredibubbles"/>
-    <title>IncrediBubbles</title>
+
+  
     <s:type>Toys</s:type>
     <s:vendor>Pet Qwerks</s:vendor>
     <summary type="html">
